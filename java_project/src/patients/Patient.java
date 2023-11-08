@@ -11,6 +11,6 @@ public class Patient {
         this.id = 0;
         this.name = "no name";
         this.age = 0;
+    System.out.println("damn that's good");
     }
-    
 }

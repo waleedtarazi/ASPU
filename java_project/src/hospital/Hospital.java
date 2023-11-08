@@ -7,5 +7,6 @@ public class Hospital{
         this.id = 0;
         this.name = "tempName";
         this.numberOfRooms = 0;
+        System.out.println("here is from Legion");
     }
 }
