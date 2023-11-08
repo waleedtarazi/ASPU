@@ -1,4 +1,4 @@
-Class Hospital{
+public class Hospital{
     int id;
     String name;
     int numberOfRooms;
